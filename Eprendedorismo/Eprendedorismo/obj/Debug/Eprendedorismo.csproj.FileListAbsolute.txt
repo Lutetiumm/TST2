@@ -1,0 +1,14 @@
+C:\Users\devwp\source\repos\Eprendedorismo\Eprendedorismo\bin\Debug\Eprendedorismo.exe.config
+C:\Users\devwp\source\repos\Eprendedorismo\Eprendedorismo\bin\Debug\Eprendedorismo.exe
+C:\Users\devwp\source\repos\Eprendedorismo\Eprendedorismo\bin\Debug\Eprendedorismo.pdb
+C:\Users\devwp\source\repos\Eprendedorismo\Eprendedorismo\obj\Debug\Eprendedorismo.csproj.AssemblyReference.cache
+C:\Users\devwp\source\repos\Eprendedorismo\Eprendedorismo\obj\Debug\Eprendedorismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\devwp\source\repos\Eprendedorismo\Eprendedorismo\obj\Debug\Eprendedorismo.Form1.resources
+C:\Users\devwp\source\repos\Eprendedorismo\Eprendedorismo\obj\Debug\Eprendedorismo.Form2.resources
+C:\Users\devwp\source\repos\Eprendedorismo\Eprendedorismo\obj\Debug\Eprendedorismo.Form3.resources
+C:\Users\devwp\source\repos\Eprendedorismo\Eprendedorismo\obj\Debug\Eprendedorismo.Form4.resources
+C:\Users\devwp\source\repos\Eprendedorismo\Eprendedorismo\obj\Debug\Eprendedorismo.Properties.Resources.resources
+C:\Users\devwp\source\repos\Eprendedorismo\Eprendedorismo\obj\Debug\Eprendedorismo.csproj.GenerateResource.cache
+C:\Users\devwp\source\repos\Eprendedorismo\Eprendedorismo\obj\Debug\Eprendedorismo.csproj.CoreCompileInputs.cache
+C:\Users\devwp\source\repos\Eprendedorismo\Eprendedorismo\obj\Debug\Eprendedorismo.exe
+C:\Users\devwp\source\repos\Eprendedorismo\Eprendedorismo\obj\Debug\Eprendedorismo.pdb
